@@ -1,0 +1,5 @@
+# cefsharpWinForm
+使用的winform创建的一个浏览器，并在里面操作H5页面
+主要使用cefSharp创建一个浏览器框架，并在此框架类使用的的Xpath的的的对H5Node进行选择
+
+还使用到C＃和JS的相互调用
